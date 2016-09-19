@@ -1,4 +1,5 @@
 Automation Code Challenge #2 (Navigation Menu class):
+
 Write a class that will allow me to navigate the main pages on the site.
 
 Go to https://www.skiutah.com
